@@ -11,6 +11,8 @@ public class Class
 	 System.out.print(j+" ");
 
 	}
+	
+	//space added
 
 
 	System.out.println();
